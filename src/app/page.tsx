@@ -16,7 +16,7 @@ export default function Home() {
                     className="flex flex-wrap place-content-center"
                 >
                     <QrCodeExample />
-                    <Text variant="subtext" className="text-center pt-4">
+                    <Text variant="subtext" className="text-center pt-4 w-full">
                         Click to learn more
                     </Text>
                 </a>
